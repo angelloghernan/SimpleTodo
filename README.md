@@ -33,6 +33,7 @@ GIF created with [Kap](https://getkap.co/).
 ## Notes
 
 Minimal challenges, only a minor bug with keyword "final" near the final stages of building the app.
+
 Note: Unsure of who to attribute the copyright to (attributing it to myself for a tutorial feels wrong), so I left name blank for the timebeing
 
 ## License
