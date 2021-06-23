@@ -33,10 +33,11 @@ GIF created with [Kap](https://getkap.co/).
 ## Notes
 
 Minimal challenges, only a minor bug with keyword "final" near the final stages of building the app.
+Note: Unsure of who to attribute the copyright to (attributing it to myself for a tutorial feels wrong), so I left name blank for the timebeing
 
 ## License
 
-    Copyright [2021] [name of copyright owner]
+    Copyright [2021]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
